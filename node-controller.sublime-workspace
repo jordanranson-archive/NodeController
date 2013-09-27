@@ -47,6 +47,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/Jordan/Documents/GitHub/cookingwithjessie.com/index.html",
+			"settings":
+			{
+				"buffer_size": 3216,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -63,10 +71,7 @@
 	},
 	"console":
 	{
-		"height": 160.0,
-		"history":
-		[
-		]
+		"height": 160.0
 	},
 	"distraction_free":
 	{
@@ -79,6 +84,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/game/entities/3d.js",
 		"/C/Users/Jordan/Documents/GitHub/NodeController/index.html",
 		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/game/main.js",
 		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/main.js",
@@ -195,6 +201,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"le",
+			"  ",
 			"bezel",
 			"scale",
 			"cube",
@@ -320,9 +328,7 @@
 			"'#0e2'",
 			"bar",
 			"ig.blue",
-			"ig.red",
-			"redBarracks",
-			"state"
+			"ig.red"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -330,6 +336,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"	",
 			"0.3",
 			"1",
 			"document",
@@ -403,8 +410,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Jordan/Documents/GitHub/cookingwithjessie.com/index.html",
+					"settings":
+					{
+						"buffer_size": 3216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1332,
+								1332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -439,7 +475,6 @@
 		]
 	},
 	"menu_visible": true,
-	"project": "node-controller.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -461,24 +496,10 @@
 		],
 		"width": 0.0
 	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"settings":
-	{
-	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 163.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
+	"status_bar_visible": true
 }
