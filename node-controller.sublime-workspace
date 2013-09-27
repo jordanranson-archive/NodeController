@@ -47,14 +47,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/Jordan/Documents/GitHub/cookingwithjessie.com/index.html",
-			"settings":
-			{
-				"buffer_size": 3216,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -84,10 +76,15 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/levelgen/levelgen.js",
 		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/game/entities/3d.js",
-		"/C/Users/Jordan/Documents/GitHub/NodeController/index.html",
 		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/Personal-Site-2/index.html",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/three/three.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/three/deferred-renderer.js",
 		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/cookingwithjessie.com/index.html",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/index.html",
 		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/camera.js",
 		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/ui.js",
 		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/node.js",
@@ -201,6 +198,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"data",
+			"ts-8",
+			"ts+8",
+			"lines",
+			"this.planes",
+			"light",
+			"21",
+			"48",
+			"this.gameobject",
+			"loadlevel3d",
+			"init3d",
+			"this.level",
+			"level",
+			"generate",
+			"carve",
 			"le",
 			"  ",
 			"bezel",
@@ -313,22 +325,7 @@
 			"5",
 			"ig.game.screen",
 			"screen",
-			".screen",
-			"screen",
-			"rscreen",
-			"maxScore",
-			"console",
-			"playerPos",
-			"handle",
-			"distance",
-			"dy, dx",
-			"flip",
-			"dy",
-			"'#020'",
-			"'#0e2'",
-			"bar",
-			"ig.blue",
-			"ig.red"
+			".screen"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -336,6 +333,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"ts-6",
+			"ts+6",
+			"8",
+			"ts",
 			"	",
 			"0.3",
 			"1",
@@ -410,37 +411,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/Jordan/Documents/GitHub/cookingwithjessie.com/index.html",
-					"settings":
-					{
-						"buffer_size": 3216,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1332,
-								1332
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 300.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
