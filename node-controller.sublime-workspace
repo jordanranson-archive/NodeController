@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"statsTooltipCvs"
+			],
+			[
+				"bacc",
+				"backBufferCvs"
+			],
+			[
+				"back",
+				"backBufferCtx"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"debr",
+				"debrisCounter"
+			],
+			[
+				"get",
+				"getTargetsInRadius"
+			],
+			[
+				"Trave",
+				"TravelMethod"
+			],
+			[
+				"cal",
+				"calcTrajectory"
+			],
+			[
+				"cool",
+				"cooldownTimer"
+			],
+			[
+				"pr",
+				"projectile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/game/main.js",
+			"settings":
+			{
+				"buffer_size": 1310,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/entities/node.js",
+			"settings":
+			{
+				"buffer_size": 32749,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/index.html",
+			"settings":
+			{
+				"buffer_size": 7775,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/enums.js",
+			"settings":
+			{
+				"buffer_size": 296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jordan/AppData/Local/Temp/7zO46E4.tmp/main.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/fss/fss.js",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/js/fss.min.js",
+		"/C/Users/Jordan/AppData/Local/Temp/7zODEC0.tmp/main.js",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/index.html",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/site.css",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/impact/game.js",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/js/fastblur.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/levelgen/levelgen.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/game/player.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/pathfinding/pathfinding.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/game/entities/3d.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/Personal-Site-2/index.html",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/three/three.js",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/lib/three/deferred-renderer.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/cookingwithjessie.com/index.html",
+		"/C/Users/Jordan/Documents/GitHub/NodeController/index.html",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/camera.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/ui.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/node.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/enums.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/shadertest.html",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/index.html",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/tooltip.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/package.html",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/package.json",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/three/three.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/impact/input.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/levelgen/levelgen.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/impact/image.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/impact/game.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/delay.js",
+		"/C/Users/Jordan/Documents/GitHub/GameDevExperiments/lib/game/entities/3d.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/scene-manager.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/index.html",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/entities/panel.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/entities/camera.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/behavior.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/impact/game.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/entities/building.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/impact/entity.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/entities/fence.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/entities/3d.js",
+		"/C/Users/Jordan/Documents/GitHub/Impact3D/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui/controller.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/impact/game.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui/views.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/locale.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/panel-manager.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui/components.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/game-state-manager.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/building.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/barracks.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/totem.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/enemy.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/living.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui/rich-font.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui/health-bars.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/crystal.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/camera.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/enums.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/projectile-defn.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/projectile.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/actions.js",
+		"/C/Users/Jordan/Documents/GitHub/Simon Says Test/index.html",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/impact/entity.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/impact/collision-map.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/power-up.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/home.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/test-dummy.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/particle.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/coin.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/lightning.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/impact/input.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/particles/particle.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/skill-defn.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/modifier.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/trigger-player-upgrade.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui/tinted-image.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/impact/animation.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/impact/image.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/trigger-creep-spawn.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/trigger-creep-upgrade.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/lightning.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/totem.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/tower-behavior.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/projectile.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/trigger.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/trigger-player-spawn.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/trigger-minion-spawn.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/projectile-tower.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/test.cpp",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/player-wizard.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/impact/font.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui/sliced-image.js",
+		"/C/Users/Jordan/Documents/GitHub/ImpactUI/impactui/js/app.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/sliced-image.js",
+		"/C/Users/Jordan/Documents/GitHub/ImpactUI/impactui/js/models.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/ui-component.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/arrow-poison.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/modifiers.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/mob.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/index.html",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/player-archer.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/1.0/lib/game/entities/player-swordsman.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/projectileDefn.js",
+		"/C/Users/Jordan/Documents/GitHub/PlatformerTD/2.0/lib/game/entities/spike.js",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ig.game.attackingNode.distanceToPoint( this.pos )",
+			"rece",
+			"major",
+			"formatText",
+			"this.distanceToPoint( ig.input.mouse )",
+			"console.log",
+			"virus",
+			"this.timer.set(",
+			"timer.reset",
+			"rece",
+			"todo",
+			"this.production ",
+			"r1 =",
+			"//ig.system",
+			"attacking",
+			"triangle",
+			"this.alive",
+			"uiAlpha",
+			"uiCurAlpha",
+			"uiAlpha",
+			"this.uiAlpha",
+			"kill",
+			"_killed =",
+			"_killed",
+			"globalAlpha",
+			"this.globalAlpha",
+			"this.data",
+			"threadAlpha",
+			"this.data",
+			"r1",
+			"vaccine",
+			"this.vaccineRad",
+			"this.data",
+			"> 0",
+			" > 0",
+			" > ",
+			" > 0",
+			"this.data",
+			"this.attacking = false",
+			"this.attacking = true",
+			"battle",
+			"cost",
+			"attack",
+			"playerAttacking ",
+			"playerAttacking &",
+			"playerAttacking",
+			"flash",
+			"flashing",
+			"player",
+			"anim",
+			"icon",
+			"rotate",
+			"this.flashWar",
+			"hover",
+			"virus",
+			"canAttack",
+			"uiCurAlp",
+			"hover",
+			"cost",
+			"lighter",
+			"global",
+			"a-",
+			"this.attacking",
+			"this.attackPoints[i+4]",
+			"Math.random",
+			"attackPoints",
+			"+=4",
+			"attackPoints",
+			"sin",
+			"console",
+			"attacking = ",
+			"console",
+			"x = ",
+			"arc",
+			"this.attack",
+			"data",
+			"hover",
+			"cost",
+			"canExpand",
+			"128",
+			"dataVal",
+			"this.cost",
+			"virus",
+			"toolt",
+			"'virus'",
+			"toolt",
+			"arc",
+			"drawArrow",
+			"lineTo",
+			"this.uiCuralpha",
+			"uiCurAlpha",
+			"this.uiAlpha",
+			"threadAlpha",
+			"dataVal",
+			"data",
+			"side",
+			"iconTimer",
+			"this.production =",
+			"0.7",
+			"this.threadAlpha =",
+			"this.threadAlpha",
+			"threadAlpha",
+			"this.threadAlpha",
+			"delta",
+			"0.1",
+			"threads",
+			"0.5",
+			"backbuffer",
+			"this.data",
+			"threadCost",
+			"threadMenu",
+			"this.production",
+			"production",
+			"timer",
+			"this.iconTimer",
+			"icontimer",
+			"iconTimer",
+			"initialise",
+			"createRenderer",
+			"element",
+			"LIGHT",
+			"export",
+			"light",
+			"dat",
+			"console",
+			"starttime",
+			"cons",
+			"nodes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"distCenter",
+			"threadCurAlpha",
+			"ts-6",
+			"ts+6",
+			"8",
+			"ts",
+			"	",
+			"0.3",
+			"1",
+			"document",
+			" 25",
+			" 30",
+			"+21",
+			"48",
+			"+22",
+			"48",
+			"",
+			"50 );",
+			" 80 )",
+			"80,",
+			" 25 )",
+			"25 )",
+			" 25,",
+			"25,",
+			"50,",
+			"80+25",
+			"80",
+			"__",
+			"this.three.",
+			"this.canMove()",
+			"ig.game._rscreen",
+			"focusPos",
+			"'rgba(0,0,0,0.7)'",
+			"'rgba(0,238,34,0.7)'",
+			".canAttack( this.owner )",
+			"creeps",
+			"COSTS {%} COINS",
+			"this.modifier = new",
+			"owner",
+			"'",
+			"followEntity",
+			"timer",
+			"this.score",
+			"this.defn",
+			"defn: ProjectileDefault",
+			"0",
+			"// url",
+			"selectedSkillIndex",
+			"selectedGroupIndex",
+			"[ 0 ], // sequence",
+			" x: -165",
+			" x: -168",
+			" x: -158",
+			"[ 0, 1, 2, 3 ], // sequence",
+			"1 // speed",
+			"[ 0 ], // sequence",
+			"0 // speed",
+			"top",
+			"ig.$new('canvas')",
+			"'",
+			"this.slices",
+			"'",
+			"basicAttack",
+			"execute(",
+			"condition",
+			"skills",
+			"data",
+			"this.execute",
+			"executing",
+			"execute: function"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/game/main.js",
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/game/entities/node.js",
+					"settings":
+					{
+						"buffer_size": 32749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25406,
+								25406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 18644.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/index.html",
+					"settings":
+					{
+						"buffer_size": 7775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/game/enums.js",
+					"settings":
+					{
+						"buffer_size": 296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true
+}
